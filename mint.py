@@ -3,7 +3,7 @@ import json
 
 NETWORK = Network.TESTNET
 chain_context = BlockFrostChainContext(
-    project_id='testnetVrmjl6D9NhZQF7HM2AZYDew9HyWXnw7a',
+    project_id='',
     network=NETWORK
 )
 
